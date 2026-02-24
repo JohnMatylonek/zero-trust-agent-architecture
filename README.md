@@ -53,7 +53,7 @@ Instead, enforce safety:
 
   All agent actions should pass through enforcement layers.
 
-  ...
+...
   User
   ↓
 Agent Runtime
