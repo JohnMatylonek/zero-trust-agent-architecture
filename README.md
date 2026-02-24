@@ -53,7 +53,7 @@ Instead, enforce safety:
 
   All agent actions should pass through enforcement layers.
 
-...
+```
   User
   ↓
 Agent Runtime
@@ -67,7 +67,7 @@ Sandboxed Execution
 Audit & Monitoring
   ↓
 Revocation / Kill Switch
-...
+```
 
  **Rule: The agent does not decide what it is allowed to do. The policy layer does.**
 
